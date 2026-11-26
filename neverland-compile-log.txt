@@ -1,0 +1,9 @@
+=== Neverland.lean compile log ===
+Toolchain: Lean (version 4.35.0, x86_64-unknown-linux-gnu, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc, Release)
+Date: 2026-11-26T15:20:07-05:00
+Command: lean Neverland.lean
+--- output ---
+'Neverland.riemann_hypothesis' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Neverland.riemann_hypothesis_is_false' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Neverland.height_eq_length' does not depend on any axioms
+--- exit code: 0 ---
